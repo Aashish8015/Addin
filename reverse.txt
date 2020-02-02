@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib>
+fjkjsd
 int main()
 {
    int n, c, d, a[100], b[100];
